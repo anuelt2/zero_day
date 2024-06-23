@@ -1,6 +1,6 @@
 # My First Git Repository
 
-Welcome to my first Git repository(not exactly) as an ALX software engineering student. This project is part of familirizing myself with Git and GitHub as a part of my learning journey.
+Welcome to my first Git repository(not exactly) as an ALX software engineering student. This project is part of familiarizing myself with Git and GitHub as a part of my learning journey.
 
 ## Introduction
 
